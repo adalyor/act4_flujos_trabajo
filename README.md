@@ -1,2 +1,2 @@
 # act4_flujos_trabajo
-hola mundo
+Landing page para la startup SmartPhone Pro, especializada en los teléfonos inteligentes más avanzados del mercado.
